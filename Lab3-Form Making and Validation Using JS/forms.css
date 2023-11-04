@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    background-color: rgb(196, 255, 194);
+    text-align: center;
+    border:solid;
+    border-top: -50px;
+    border-left: -80px;
+    }
+    .form{
+    text-align: center;
+    }
+    .h1{
+    padding: 450px;
+    }
+    .i{
+    display: inline-block;
+    width: 180px;
+    position: relative;
+    top: 0em;
+    height: 22px;
+    }
+    .l{
+    display: inline-block;
+    width: 6em;
+    margin-right: .5em;
+    padding-top: 1.5em;
+    }
+    .container {
+    margin: 0 auto;
+    padding: 4rem 0;
+    width: 90%;
+    max-width: 60rem;
+    }
